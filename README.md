@@ -2,7 +2,7 @@
 
 👀 My interest lies in exploring the endless possibilities at the intersection of Flutter and AI.
 
-💻 With over 3 years of hands-on experience, I've cultivated a strong foundation in Flutter development. However, I believe in continuous learning and I'm committed to delving deeper into this vast realm because, in my view, Flutter is akin to a profound ocean of opportunities.
+💻 With over 4 years of hands-on experience, I've cultivated a strong foundation in Flutter development. However, I believe in continuous learning and I'm committed to delving deeper into this vast realm because, in my view, Flutter is akin to a profound ocean of opportunities.
 
 📱 Currently, I'm actively seeking collaboration opportunities in the exciting realm of Flutter integrated with deep learning applications.
 
