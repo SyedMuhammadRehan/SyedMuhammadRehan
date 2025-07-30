@@ -6,7 +6,7 @@
 
 📱 Currently, I'm actively seeking collaboration opportunities in the exciting realm of Flutter integrated with deep learning applications.
 
-⭐ Additionally, I actively share informative and insightful Flutter-related content on my Facebook page: https://www.facebook.com/flutterwithrehan.
+⭐ Additionally, I actively share informative and insightful Flutter-related content on my Facebook page: https://www.facebook.com/flutterwithrehan and medium: https://medium.com/@syedrehann
 
 Let's connect and explore the fascinating world of Flutter and AI together! 🚀📲 #Flutter #AI #MobileAppDevelopment
 - 📫 How to reach me ??? LinkedIn https://www.linkedin.com/in/syedrehan55 
