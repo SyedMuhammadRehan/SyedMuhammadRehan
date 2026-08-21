@@ -13,7 +13,7 @@ I'm a **Senior Cross-Platform Engineer** with **5+ years of professional experie
 
 I specialize in bridging the gap between complex backend ecosystems, modern AI, and beautiful cross-platform UIs. I have deep experience integrating diverse backend architectures and microservices, from standard REST and GraphQL to high-performance gRPC, alongside managing scalable cloud infrastructures and ensuring production-grade app stability through robust monitoring pipelines.
 
-Currently, I'm pioneering **Loop Engineering**: designing constraint, verification, and adversarial QA cycles that let autonomous AI coding agents work reliably without human babysitting at every step. I'm actively learning Python to bridge Flutter frontends with these AI backends.
+Currently, I'm pioneering **Loop Engineering**: designing constraint, verification, and adversarial QA cycles that let autonomous AI coding agents work reliably without human babysitting at every step. My `ticket-loop-harness` plugin for Claude Code is a working implementation of this, complete with a sealed receipt chain and a 150+ test suite. I'm actively learning Python to bridge Flutter frontends with these AI backends.
 
 💡 I don't just build screens. I build scalable, intelligent products, and the autonomous systems that help engineer them.
 
@@ -82,18 +82,6 @@ Currently, I'm pioneering **Loop Engineering**: designing constraint, verificati
 > 🔹 Learning Python to bridge Flutter frontends with advanced AI backends
 > 🔹 Optimizing network layers and state synchronization for offline-first, high-performance apps
 > 🔹 Architecting flexible, stack-agnostic backend integrations for scalable mobile products
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Ticket-Loop Harness](https://github.com/SyedMuhammadRehan/ticket-loop-harness)** | Agentic AI loop-engineering plugin for Claude Code (automated TDD, adversarial QA, isolated git worktrees, frozen specs) | Node.js, AI Agents, Tool-use |
-| **[PasteSnap](https://github.com/SyedMuhammadRehan/paste_snap_demo)** | Clipboard and image sharing for chat apps | Flutter, Dart, Local Storage |
-| **[IoT BLE Controller](https://github.com/SyedMuhammadRehan/flutter-esp32-bluetooth-controller)** | Cross-platform app for ESP32 hardware control | Flutter, BLE, Platform Channels |
-| **[Clean Architecture App](https://github.com/SyedMuhammadRehan/flutter_task_app_clean_architecture)** | Enterprise-grade boilerplate and scalable design | Flutter, BLoC, Clean Arch |
-| **[AI Dog Breed Detection](https://github.com/SyedMuhammadRehan/Dog-breed-detection)** | Computer vision integration in Flutter | Flutter, TensorFlow Lite |
 
 ---
 
